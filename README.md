@@ -12,3 +12,5 @@
 :art: Art<br/>
 :books: Lecture<br/>
 :computer: Developpment<br/>
+
+Bonne journée!
