@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bonjour, je suis Marie
 
-<!--
-**marie-pro/marie-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Formations:**
+<br/>
+- [ ] Web developpement front end à l'Ifapme<br/>
+- [x] Histoire de l'art et archéologie à l'université de Liège<br/>
+- [x] CESS en option histoire<br/>
+- [x] Ebénisterie<br/>
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Loisirs:**<br/>
+:art: Art<br/>
+:books: Lecture<br/>
+:computer: Developpment<br/>
